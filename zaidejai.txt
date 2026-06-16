@@ -15,4 +15,4 @@
 15;Rayan Cherki;Manchester City;CAM;22;6;12
 16;Rafael Leao;AC Milan;LW;27;9;3
 17;Jamal Musiala;Bayern Munich;CAM;23;10;8
-18;Cole Palmer;Chelsea;CAM;24;14;6
+18;Cole Palmer;Chelsea;CAM;24;14;7

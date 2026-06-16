@@ -1,0 +1,18 @@
+1;Lamine Yamal;Barcelona;RW;18;16;12
+2;Pedri;Barcelona;CM;23;8;14
+3;Robert Lewandowski;Barcelona;ST;37;27;4
+4;Kylian Mbappe;Real Madrid;ST;27;32;7
+5;Vinicius Junior;Real Madrid;LW;25;22;11
+6;Jude Bellingham;Real Madrid;CM;23;15;10
+7;Erling Haaland;Manchester City;ST;25;34;5
+8;Phil Foden;Manchester City;CAM;26;18;13
+9;Bukayo Saka;Arsenal;RW;24;19;15
+10;Martin Odegaard;Arsenal;CAM;27;10;17
+11;Mohamed Salah;Liverpool;RW;34;24;16
+12;Virgil van Dijk;Liverpool;CB;35;4;2
+13;Harry Kane;Bayern Munich;ST;33;36;8
+14;Jamal Musiala;Bayern Munich;CAM;23;14;12
+15;Florian Wirtz;Bayer Leverkusen;CAM;23;13;18
+16;Victor Osimhen;Napoli;ST;27;21;3
+17;Lautaro Martinez;Inter;ST;28;25;6
+18;Rafael Leao;AC Milan;LW;27;12;11

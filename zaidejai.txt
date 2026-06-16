@@ -1,18 +1,18 @@
-1;Lamine Yamal;Barcelona;RW;18;16;12
-2;Pedri;Barcelona;CM;23;8;14
-3;Robert Lewandowski;Barcelona;ST;37;27;4
-4;Kylian Mbappe;Real Madrid;ST;27;32;7
-5;Vinicius Junior;Real Madrid;LW;25;22;11
-6;Jude Bellingham;Real Madrid;CM;23;15;10
-7;Erling Haaland;Manchester City;ST;25;34;5
-8;Phil Foden;Manchester City;CAM;26;18;13
-9;Bukayo Saka;Arsenal;RW;24;19;15
-10;Martin Odegaard;Arsenal;CAM;27;10;17
-11;Mohamed Salah;Liverpool;RW;34;24;16
-12;Virgil van Dijk;Liverpool;CB;35;4;2
-13;Harry Kane;Bayern Munich;ST;33;36;8
-14;Jamal Musiala;Bayern Munich;CAM;23;14;12
-15;Florian Wirtz;Bayer Leverkusen;CAM;23;13;18
-16;Victor Osimhen;Napoli;ST;27;21;3
-17;Lautaro Martinez;Inter;ST;28;25;6
-18;Rafael Leao;AC Milan;LW;27;12;11
+1;Kylian Mbappe;Real Madrid;ST;27;25;5
+2;Lamine Yamal;Barcelona;RW;18;16;11
+3;Harry Kane;Bayern Munich;ST;32;36;5
+4;Erling Haaland;Manchester City;ST;25;27;8
+5;Michael Olise;Bayern Munich;RW;24;12;19
+6;Lautaro Martinez;Inter;ST;28;17;6
+7;Raphinha;Barcelona;RW;29;11;9
+8;Pedri;Barcelona;CM;23;6;8
+9;Vinicius Junior;Real Madrid;LW;25;14;7
+10;Jude Bellingham;Real Madrid;CM;23;10;7
+11;Bruno Fernandes;Manchester United;CAM;31;9;21
+12;Bukayo Saka;Arsenal;RW;24;12;7
+13;Mohamed Salah;Liverpool;RW;34;7;7
+14;Florian Wirtz;Liverpool;CAM;23;8;6
+15;Rayan Cherki;Manchester City;CAM;22;6;12
+16;Rafael Leao;AC Milan;LW;27;9;3
+17;Jamal Musiala;Bayern Munich;CAM;23;10;8
+18;Cole Palmer;Chelsea;CAM;24;14;6
